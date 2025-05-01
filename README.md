@@ -10,8 +10,15 @@ Frontend-focused developer with expertise in building scalable web applications 
 
 ## 🎓 Education
 - B.Tech in Information Technology - AITAM, Tekkali (2021)
-- Intermediate MPC  - Vijay Chaitanya, Visakhapatnam (2017)
-- SSC - Government High School, Kaviti (2015)
+
+## Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kalivaraprasad-gonapa" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalivaraprasad-gonapa&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 ## 💼 Professional Journey
 
@@ -29,32 +36,6 @@ Frontend-focused developer with expertise in building scalable web applications 
 - Implemented payment processing and receipt management
 - Built prasad booking systems with cart functionality
 
-## 🛠️ Tech Stack
-```javascript
-const skills = {
-    frontend: {
-        frameworks: ['React.js', 'Next.js', 'Angular 12+'],
-        tools: ['ESLint']
-    },
-    backend: {
-        runtime: ['Node.js'],
-        api: ['GraphQL', 'REST'],
-        auth: ['Cognito']
-    },
-    cloud: {
-        aws: [
-            'Amplify', 'Lambda', 'Step Functions',
-            'VPC', 'Subnets', 'Cross-Account Connections'
-        ]
-    },
-    infrastructure: {
-        iac: ['Terraform'],
-        ci_cd: ['GitHub Actions'],
-        version_control: ['Git']
-    },
-    databases: ['Neo4j (Basic)']
-}
-```
 
 ## 🔗 Infrastructure & Cloud Skills
 - AWS service configuration and management
@@ -67,11 +48,5 @@ const skills = {
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kalivaraprasad-gonapa" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalivaraprasad-gonapa&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 ⭐️ From [kalivaraprasad-gonapa](https://github.com/Streen9)
