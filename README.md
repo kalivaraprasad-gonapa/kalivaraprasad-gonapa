@@ -11,11 +11,10 @@ Frontend-focused developer with expertise in building scalable web applications 
 ## 🎓 Education
 - B.Tech in Information Technology - AITAM, Tekkali (2021)
 
-## Github Stats
-<div>
-  
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kalivaraprasad-gonapa" />
+## 📊 GitHub Stats
 
+<div>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kalivaraprasad-gonapa" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalivaraprasad-gonapa&layout=compact&langs_count=8&card_width=320" />
 </div>
 
