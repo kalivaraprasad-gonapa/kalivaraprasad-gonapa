@@ -12,10 +12,10 @@ Frontend-focused developer with expertise in building scalable web applications 
 - B.Tech in Information Technology - AITAM, Tekkali (2021)
 
 ## Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/kalivaraprasad-gonapa/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kalivaraprasad-gonapa" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/kalivaraprasad-gonapa/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalivaraprasad-gonapa&layout=compact&langs_count=8&card_width=320" />
 </a>
 
