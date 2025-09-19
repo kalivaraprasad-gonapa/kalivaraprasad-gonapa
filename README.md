@@ -22,7 +22,10 @@ Frontend-focused developer with expertise in building scalable web applications 
 
 ## 💼 Professional Journey
 
-### Software Engineer @ Drishya AI Labs (2023 - Present)
+### Software Engineer @ Ericsson (2025 - Present)
+ -
+
+### Software Engineer @ Drishya AI Labs (2023 - 2025)
 - Building responsive web applications with React.js and Next.js
 - Implementing and maintaining CI/CD pipelines
 - Managing AWS infrastructure (Lambda, Amplify, Step Functions)
