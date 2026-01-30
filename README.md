@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Kalivaraprasad Gonapa
 
-Frontend-focused developer with expertise in building scalable web applications and cloud infrastructure and currently working at Drishya AI Labs, crafting web solutions and managing cloud infrastructure.
 
 ## 🚀 About Me
 - 🔭 Currently working on web applications using React.js/Next.js and AWS infrastructure
@@ -15,7 +14,6 @@ Frontend-focused developer with expertise in building scalable web applications 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kalivaraprasad-gonapa" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalivaraprasad-gonapa&layout=compact&langs_count=8&card_width=320" />
 </div>
-
 
 
 
